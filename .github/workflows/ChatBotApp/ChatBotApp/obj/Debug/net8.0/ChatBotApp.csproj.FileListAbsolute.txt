@@ -1,0 +1,4 @@
+C:\Users\Student\source\repos\ChatBotApp\ChatBotApp\obj\Debug\net8.0\ChatBotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ChatBotApp\ChatBotApp\obj\Debug\net8.0\ChatBotApp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ChatBotApp\ChatBotApp\obj\Debug\net8.0\ChatBotApp.AssemblyInfo.cs
+C:\Users\Student\source\repos\ChatBotApp\ChatBotApp\obj\Debug\net8.0\ChatBotApp.csproj.CoreCompileInputs.cache
